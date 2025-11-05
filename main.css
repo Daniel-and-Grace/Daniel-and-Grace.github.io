@@ -20,10 +20,12 @@ h2 {
     font-family: Georgia, serif;
     font-size: 100%;
     background-color: #275078;
+    color: #275078;
 }
 
 .responsive {
     width: 100%;
     max-width: 400px;
-    height: auto;
+    height: 600px;
 }
+
