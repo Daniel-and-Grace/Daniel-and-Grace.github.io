@@ -1,0 +1,29 @@
+/* link styles */
+a:link,
+a:visited {
+    color: #DC6903;
+}
+
+a:focus,
+a:hover,
+a:active {
+    color: #F9AB33;
+}
+
+body,
+header,
+footer,
+section,
+p,
+h1,
+h2 {
+    font-family: Georgia, serif;
+    font-size: 100%;
+    background-color: #275078;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
